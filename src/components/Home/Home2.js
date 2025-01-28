@@ -23,17 +23,13 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++ and Javascript. </b>
+                <b className="purple"> C and Java. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">Web Technologies and Products </b>
               </i>
               <br />
               <br />
@@ -66,7 +62,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Yashwantyadav1"
+                  href="https://github.com/Kundan-Soni"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,7 +72,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/yashwant-yadav-b05b38228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"
+                  href="www.linkedin.com/in/kundan-kumar-b33265229"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -84,7 +80,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://www.instagram.com/_yadav_yashwant?igsh=MXJhNDRocmRoODZtZg=="
                   target="_blank"
@@ -93,7 +89,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
