@@ -24,7 +24,7 @@ function Projects() {
               title="Music"
               description=" Web App offers a seamless music streaming experience using HTML, CSS, and JavaScript for the front-end, and MongoDB for the back-end.
               Users can stream music, create and manage playlists, authenticate securely, and receivepersonalized music recommendations, providing an engaging, responsive, and interactiveweb-based music platform.."
-              ghLink="https://github.com/Yashwantyadav1/Music"
+              ghLink="https://github.com/Kundan-Soni/Music"
               demoLink="Avaliable Soon"
             />
           </Col>
@@ -35,8 +35,8 @@ function Projects() {
               isBlog={false}
               title="Shoping "
               description=" e-commerce website using HTML, CSS, and JavaScript. Deliver a seamless shopping experience, intuitive navigation, and interactive product displays. Implement secure checkout, and cart functionality."
-              ghLink="https://github.com/Yashwantyadav1/project"
-              demoLink="https://yashwantyadav1.github.io/project/"
+              ghLink="https://github.com/Kundan-Soni/Ecommerce-front-page"
+              demoLink="https://kundan-soni.github.io/Ecommerce-front-page/"
             />
           </Col>
 
